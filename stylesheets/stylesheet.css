@@ -272,16 +272,33 @@ Full-Width Styles
   width: 162px;
   height: 162px;
   float: left;
+  display: inline-block;
 }
 .inner img{
+  width: 100%;
   margin:0;
   padding: 0;
 }
 .inner blockquote{
-  float: left;
-  padding: 6% 0 6% 10px;
-  margin:0;
+  display: inline-block;
+    padding: 9% 0 9% 10px;
+    margin: 0 0 0 10px;
 }
+
+section{
+  padding: 10px;
+}
+
+section h3, 
+section h5,
+section p {
+  margin: 0;
+  color: #393e41;
+}
+.expirence{
+  background: #ebebeb;
+}
+
 
 #forkme_banner {
   display: block;
