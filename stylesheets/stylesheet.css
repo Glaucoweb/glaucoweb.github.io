@@ -278,6 +278,7 @@ Full-Width Styles
   width: 100%;
   margin:0;
   padding: 0;
+  border-radius: 50%;
 }
 .inner blockquote{
   display: inline-block;
