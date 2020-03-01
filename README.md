@@ -1,4 +1,6 @@
-## Glauco Web - UI/UX Designer
+![](https://media-exp1.licdn.com/dms/image/C5603AQGf-Bo7d6InRQ/profile-displayphoto-shrink_200_200/0?e=1588204800&v=beta&t=uRsa_1-BmUwaM6_QuOzQ3OziWwJ9IfWijWfrE-3fyew)
+
+### Glauco Web - UI/UX Designer
 Frase de efeito:
 > Procuro pensar como mudar a vida das pessoas em apenas um pixel!
 Designer com aventuras no mundo Front-End.
@@ -15,6 +17,7 @@ Designer Gráfico - SENAC-RJ - 2015
 ```python
 import empresas
 ```
+
 ```python
 Designer Independent
 UI/UX Designer
@@ -75,7 +78,7 @@ Desenvolvimento dos produtos:
 
 Myfinance é o sistema online ideal para a gestão financeira de empresas. (http://www.myfinance.com.br)
 Livecapital é um Gerenciador Universal de Investimentos.(http://www.livecapital.com.br)
-Projetar utilizando técnicas de estruturas modernas, padrões web, wireframes, UI, otimização e frameworks.
+Projetar técnicas com estruturas modernas, padrões web, wireframes, UI, otimização e frameworks.
 ```
 
 ```python
@@ -89,6 +92,6 @@ Review de Websites
 ## Contatos
 
 * glauco.contato@gmail.com
-* +55 11 94896-9316
+* +55 11 94896-9316 (somente Whatsapp)
 * [LinkedIn] (https://www.linkedin.com/in/glaucogk/)
 * [Behance] (https://www.behance.net/glaucogk)
