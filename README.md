@@ -93,5 +93,5 @@ Review de Websites
 
 * glauco.contato@gmail.com
 * +55 11 94896-9316 (somente Whatsapp)
-* [LinkedIn] (https://www.linkedin.com/in/glaucogk/)
-* [Behance] (https://www.behance.net/glaucogk)
+* [LinkedIn](https://www.linkedin.com/in/glaucogk/)
+* [Behance](https://www.behance.net/glaucogk)
